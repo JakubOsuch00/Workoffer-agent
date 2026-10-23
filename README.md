@@ -90,7 +90,6 @@ appear as the trace is written.
 ## Lessons From Live Runs
 
 Traces: `evidence/run-success.jsonl`, `evidence/run-step-limit.jsonl`.
-Details in `evidence/REPORT.md`.
 
 - **Too narrow search (2026-10-22).** The model filtered `search_offers` by
   `level="junior"` although the profile also accepts `intern`, and accepted
