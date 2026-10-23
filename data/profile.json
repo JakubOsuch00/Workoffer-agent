@@ -1,0 +1,10 @@
+{
+  "name": "Alex Rivera",
+  "note": "Fictional candidate created for this course project.",
+  "education": "BSc Computer Science (final year)",
+  "skills": ["Python", "SQL", "Git", "Pandas", "Excel", "Linux"],
+  "accepted_levels": ["intern", "junior"],
+  "preferred_locations": ["Warsaw", "Remote"],
+  "min_salary_pln": 6000,
+  "languages": ["Polish", "English"]
+}

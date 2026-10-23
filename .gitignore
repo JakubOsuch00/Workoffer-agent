@@ -1,5 +1,10 @@
 .env
+.DS_Store
+CLAUDE.md
+evidence/REPORT.md
+.venv
 .venv/
+.venv.nosync/
 __pycache__/
 *.py[cod]
 .pytest_cache/
